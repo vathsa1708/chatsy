@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "858046026707",
+    "project_id": "mediaapp-6bf4c",
+    "storage_bucket": "mediaapp-6bf4c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:858046026707:android:a1f0bfa5fff2d6f5ebd526",
+        "android_client_info": {
+          "package_name": "in.macro.codes.Kncok"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBSRw_7l5JmS9tvJFlgmQ1ss1cl5dH_RwM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

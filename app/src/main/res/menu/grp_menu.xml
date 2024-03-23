@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/grp_info"
+        android:title="Invite Friends" />
+
+    <item android:id="@+id/delete_group_chat"
+        android:title="Delete Chat" />
+
+    <item android:id="@+id/delete_group"
+        android:title="Delete Group" />
+
+    <item
+        android:id="@+id/grp_set"
+        android:title="Group Settings" />
+
+
+</menu>
